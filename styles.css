@@ -1,0 +1,53 @@
+body {
+    background-image: url("https://vignette.wikia.nocookie.net/club-penguin-rewritten/images/5/55/Penguin_Awards_Background.png/revision/latest/scale-to-width-down/310?cb=20180202165153");
+    background-size: cover;
+    text-align: center;
+}
+img {
+    width: 400px;
+    border-style: groove;
+    border-width: 50px;
+    border-color: crimson;
+}
+h1 {
+    background: rgba(255, 0, 0, 0.5);
+    font-family: 'Oswald', sans-serif;
+    font-size: 75px;
+    color: gold;
+    border: dotted 25px;
+}
+.TVShow {
+    font-family: 'Black Han Sans', sans-serif;
+    color: navy;
+}
+.Old {
+    border-color: Darkorange;
+}
+.Childhood {
+    font-family: 'Sedgwick Ave', cursive;
+    color: mediumblue;
+}
+.RIP {
+    border-color: gainsboro;
+}
+.War {
+    font-family: 'Ranga', cursive;
+    color: deeppink;
+}
+.SubscribetoPewdiepie {
+    border-color: crimson;
+}
+.Worst {
+    font-family: 'Unlock', cursive;
+    color: lawngreen;
+}
+.MoneyEyes {
+    border-color: Springgreen;
+}
+p {
+    font-size: 30px;
+    color: lemonchiffon;
+    border: double hotpink 25px;
+    padding: 10px;
+    background-color: rgba( 105, 105, 105, 0.7);
+}
